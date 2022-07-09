@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=snake97123)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snake97123&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snake97123&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snake97123&theme=default)
+
+
